@@ -1,6 +1,7 @@
 /**
  * LoadImage
- * Author：wangyingran@makepolo.com
+ * Author Blog: http://www.wangyingran.com
+ * Date: 2013-11-12
  */
 
 ;(function($, window, undefined) {
